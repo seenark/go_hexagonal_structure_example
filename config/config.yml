@@ -1,0 +1,6 @@
+environment: dev
+app:
+  port: 8080
+mongo:
+  username: HadesGod3
+  password: AtIwatseeNarK19
